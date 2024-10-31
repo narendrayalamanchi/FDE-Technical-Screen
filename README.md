@@ -1,7 +1,7 @@
-STEP 1:  Calculate volume
+STEP 1:  Calculate volume.
     volume = width*height*length
     
-STEP 2: Determine if the package is bulky or heavy
+STEP 2: Determine if the package is bulky or heavy.
     is_bulky = volume >= 1000000 or width >= 150 or  height >= 150 or  length >= 150
     is_heavy = mass >= 20
     
